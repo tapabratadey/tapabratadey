@@ -52,7 +52,7 @@
   <img style="width="20%"; height="20%"; align="center";" src="https://github-readme-stats.vercel.app/api?username=tapabratadey&count_private=true&show_icons=true&theme=dark&custom_title=GitHub%20Stats&include_all_commits=true&line_height=28&border_radius=20" />
 </a>
 
-<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
+<h2> I'm not a jokestar, you are <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
 
