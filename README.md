@@ -33,7 +33,6 @@
 <a href="https://solana.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tapabratadey/Just-Gifs/main/public/solana.svg" alt="Solana" width="32" height="32"/></a><a href="https://phantom.app/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tapabratadey/Just-Gifs/main/public/phantom.svg" alt="Phantom" width="32" height="32"/></a><a href="https://www.metaplex.com/" target="_blank" rel="noreferrer"> <img src="https://assets.website-files.com/6182ee30b608385a15466a3f/61830a3b2fae13390f52a5e0_Metaplex%20Logo%20Mark_blue.svg" alt="Metaplex" width="32" height="32"/></a>
 
 
-
 <h2> Connect with me 🤙 </h2>
 <a href = 'https://www.github.com/tapabratadey'> <img width = '24px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 <a href = 'https://www.linkedin.com/in/tapabratadey'> <img width = '24px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
