@@ -5,7 +5,7 @@
 <h1> Namaste, I'm Tapa 🙏 </h1>
 
 
-- 🔭 Working on my personal website and web3 projects.
+- 🔭 Working on personal and web3 projects.
 
 - 🌱 Learning Rust and GraphQL.
 
