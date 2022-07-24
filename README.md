@@ -4,11 +4,6 @@
 
 <h1> Namaste, I'm Tapa 🙏 </h1>
 
-
-- 🔭 Working on personal and web3 projects.
-
-- 🌱 Learning Rust and GraphQL.
-
 <h2> Skills 👨‍💻 </h2>
 <a href= https://github.com/tapabratadey?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
 <a href= https://github.com/tapabratadey?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
